@@ -1,2 +1,0 @@
-This is sample text.
-{$ FOR i 1 10 1 $}
