@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Java-Course">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hw02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw07.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw13.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw17-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw04.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw08.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw06.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw17-2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw14.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw16.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw05.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw11.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw09.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
