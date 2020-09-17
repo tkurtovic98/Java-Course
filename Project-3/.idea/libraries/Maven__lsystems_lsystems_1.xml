@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: lsystems:lsystems:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/lsystems/lsystems/1/lsystems-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/lsystems/lsystems/1/lsystems-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/lsystems/lsystems/1/lsystems-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

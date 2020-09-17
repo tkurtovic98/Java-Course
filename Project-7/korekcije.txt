@@ -1,0 +1,29 @@
+U nastavku ovog dokumenta nalaze se vaše recenzije.
+Ja sam popravio djelove svoga koda koji nisu zadovoljavali minimalne uvjete:
+- zelena boja kod Newton fraktala
+- kriva slika u RayCasteru i RayCasterParallel i RayCasterParallel2
+
+Stavit ću samo dio koji ne zadovoljava minimalne uvjete da ne gubite previše vremena
+na nebitne djelove koda.
+
+
+1.RECENZIJA
+Minimalni uvjeti:
+ - u 2. zadatku crta cijeli zeleni ekran.
+ - u 3. zadatku slika je prosarana crnim tockicama i u 
+ RayCasterParallel2 dvije velike kugle se vide prije onih malih 
+ kuglica u svakom viewpointu.
+
+
+2.RECENZIJA
+Zadaca je ocijenjena ocjenom 1 jer ne zadovoljava minimalne uvjete 
+(Newton ne radi, niti RayCasterParallel2 i
+ RayCasterParallel koji se raspadnu kod rasirenja prozora i sl.).
+ 
+ 3.RECENZIJA
+ Ovu zadaću ocjenjujem ocjenom 1 jer
+ drugi zadatak ne zadovoljava minimalne uvjete,
+ a i treći zadatak ima dosta problema.
+ 
+ 2.Zad
+ Slika nije dobra tj slike nema.

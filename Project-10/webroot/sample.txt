@@ -1,0 +1,6 @@
+SAMPLE TXT 
+FILE 
+THAT IS
+
+
+USED IN my server for homework
