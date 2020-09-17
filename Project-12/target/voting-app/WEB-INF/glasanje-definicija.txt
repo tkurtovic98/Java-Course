@@ -1,0 +1,7 @@
+1	Guns N'Roses	https://www.youtube.com/watch?v=o1tj2zJ2Wvg
+2	AC/DC	https://www.youtube.com/watch?v=l482T0yNkeo
+3	Metallica	https://www.youtube.com/watch?v=tAGnKpE4NCI
+4	S.O.A.D	https://www.youtube.com/watch?v=zUzd9KyIDrM
+5	Rammstein	https://www.youtube.com/watch?v=W3q8Od5qJio
+6	Dire Straits	https://www.youtube.com/watch?v=0fAQhSRLQnM
+7	Led Zeppelin	https://www.youtube.com/watch?v=D9ioyEvdggk

@@ -1,0 +1,33 @@
+
+U nastavku slijede vaše recenzije pa molim da pronađete istu i provjerite jesu li sada minimalni uvjeti 
+zadovoljeni. Kao što možete primjetiti ostavio sam samo djelove zbog kojih je zadaća morala biti 
+negativno ocjenjena da vam skratim vrijeme ponovnog ispravljanja.
+Popravio sam sve što je trebalo i napravio neke izmjene nakon čitanja vaših komentara.
+
+1.RECENZIJA 
+
+Pozdrav!
+Ocjena ce biti 1 jer je insert() krivo parametriziran u ArrayIndexedCollection u 1. zadatku.
+1. zadatak:
+-insert() u ArrayIndexedCollection moze primiti i staviti bilo kakav Object u kolekciju. Zbog toga, minimalni uvjeti nisu zadovoljeni
+Puno srece u nastavku vjestine!
+
+
+2. RECENZIJA
+1. zadatak: zadovoljeno
+toArray ne smije biti T[], nego Object[]. Zbog brisanja tipova, generički arrayevi se ne mogu konstruirati kao tip T[], već će biti tipa Object[], te će pokušak pridruživanja nizu tipa T baciti ClassCastException.
+4. zadatak: zadovoljeno
+Ako se pozove remove() s objektom koji nije u tablici, size() se svejedno smanjuje. Dakle, remove ne funkcionira kako treba.
+Copy ne funkcionira kako treba, jer je / dva inta cjelobrojno dijeljenje. Dakle, umjesto da se resize() odvija na 75% popunjenosti dogodit će se na 100%, što je u suprotnosti s onime što piše u tekstu.
+Iterator baca pogrešnu iznimku. Treba vratiti IllegalStateException, a baca UnsupportedOperationException.
+Način na koji radi contains() je vrlo neobičan. Korištenje stringa za polimorfizaciju je loša praksa, te se tako u Javi jednostavno ne radi. Ako želite da imate samo jednu contains() funkciju, možete ju napraviti tako da prima Tester i onda koristiti lambde.
+
+
+3. RECENZIJA
+Minimalni uvjeti nisu zadovoljeni za:
+-1. zad: ArrayIndexedCollection u metodi insert(Object value , int position) - treba biti argument value tipa T, a ne Object. Zbog toga kolekcija dopušta da se doda String, a ona je npr kolekcija Integera.
+Komentari:
+4. zad: Metoda remove() iteratora IteratorImpl mora bacati IllegalStateException ako se pozove više puta za redom.
+
+
+

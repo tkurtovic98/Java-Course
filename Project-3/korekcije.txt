@@ -1,0 +1,27 @@
+U nastavku slijede vaše recenzije pa molim da pronađete istu i provjerite jesu li sada minimalni uvjeti 
+zadovoljeni. 
+Kao što možete primjetiti ostavio sam samo djelove zbog kojih je zadaća morala biti 
+negativno ocjenjena da vam skratim vrijeme ponovnog ispravljanja.
+Popravio sam sve što je trebalo i napravio neke izmjene nakon čitanja vaših komentara.
+
+1.RECENZIJA
+
+Zadaca je ocijenjena ocjenom 1 jer plant2.txt se ne crta ispravno
+
+problem je sljedeci: ti u TurtleState.copy() predajes referencu oba vektora, a ne njihove kopije, i onda kad kasnije zoves Vector2D.rotate() koji nije isto kao i Vector2D.rotated(), promijene se rade na oba vektora, na vektoru trenutnog stanja kao i na vektoru stanja koje je dublje u stogu.
+Rjesavanje problema je jako jednostavno:
+u TurtleState.copy() samo na oba vektora pozovi .copy() i radit ce ti ispravno
+takoder, boja ti nije zelena, popravi da ti daje zelenu boju
+
+2.RECENZIJA
+
+Ocjena 1 zbog prvog zadatka koji krsi minimalne uvjete.
+
+-radi ti koch i plant2 (ali plant2 ne oboja u zeleno i nema efekt puhanja vjetra, to je taj 'minimalni' uvjet)
+-u TurtleStateu kod metode copy moras stvoriti novi state s kopiranim varijablama trenutnog, sto znaci da i vektori trebaju biti kopirani inace ti se slike gdje se koristi stog, poput
+stabla, nece dobro crtati jer ces sve promjene koje napravis nad currentStateom, napraviti i na glavnom stateu pa ce se sve pobrkati. (probao sam ja stavit copy i sad ti rade svi plantovi, samo u krivoj boji)
+
+
+
+3. RECENZIJA 
+Netočno ocijenjeno

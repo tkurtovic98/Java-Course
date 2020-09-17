@@ -1,0 +1,60 @@
+arsenal.png
+Arsenal football club logo
+arsenal, england
+chelsea.png
+Chelsea football club logo
+chelsea, england
+mancity.png
+Manchester city football club logo
+mancity, champions, england
+newcastle.png
+Newcaste football club logo
+england
+tottenham.png
+Tottenham football club logo
+notrophies, england
+barca.png
+Barcelona football club logo
+barca, champions
+atmadrid.png
+Atletico madrid football club logo
+atletico, spain
+realmadrid.png
+Real madrid football club logo
+spain, galacticos
+malaga.png
+Malaga football club logo
+spain
+sevilla.png
+Sevilla football club logo
+sevilla, spain
+bayer.png
+Bayer leverkusen football club logo
+germany, notbayern
+bayern.png
+Bayen munchen football club logo
+germany, champions
+werder.png
+Werder bremen football club logo
+werder, almostthere
+rbleipzig.png
+RedBull leipzig football club logo
+rb, germany
+bvb.png
+Borrusia football club logo
+alwayssecond, reus, germany
+inter.png
+Inter football club logo
+italy, dissapeared
+milan.png
+Milan footbal club logo
+italy, bestteam
+lazio.png
+Lazio football club logo
+italy, notbad
+juventus.png
+Juventus footbal club logo
+oldlady, champions
+roma.png
+Roma footbal club logo
+totti, italy

@@ -1,0 +1,7 @@
+1	Arsenal	https://www.arsenal.com/
+2	Real Madrid	https://www.realmadrid.com/en
+3	Dinamo Zagreb	https://gnkdinamo.hr/
+4	Barcelona	https://www.fcbarcelona.com/en/
+5	PSG	https://en.psg.fr/
+6	LA Galaxy	https://www.lagalaxy.com/
+7	BvB	https://www.bvb.de/eng

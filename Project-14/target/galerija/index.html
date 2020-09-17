@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Football!</title>
+<link rel="stylesheet" type="text/css" href="css/gridStyle.css">
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="js/generator.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$.ajax({
+			url : "rest/tags",
+			dataType : "json",
+			success : function(data) {
+				$("#buttons").html(generateButtons(data));
+			}
+		});
+	}
+
+	);
+	
+	function displayThumbnails(tag){
+		document.getElementById('original').style.visibility ='hidden';
+		
+		$.ajax({
+			url:"images",
+			data: {
+				tag : tag
+			},
+			dataType:"json",
+			success : function(data){
+				$("#images").html(generateImages(data));
+			}
+		});
+	}
+	
+	function displayLargeImage(name){
+		document.getElementById('original').style.visibility = 'visible';
+		$.ajax({
+			url:"rest/original/"+name,
+			dataType:"json",
+			success : function(data){
+				$("#original").html(generateLargeImage(data));
+			}
+		});
+	}
+</script>
+</head>
+<body>
+	<div class="grid" id="buttons"></div>
+	<div class = "center">
+	<div class="gridImg" id ="images"></div>
+	</div>	
+	<div class= "center" id="original"></div>
+</body>
+</html>
