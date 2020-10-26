@@ -33,24 +33,7 @@ This project shows the ability to implement custom 2D objects and some more coll
 This project has 2 parts.
 
 The 1st part shows the implementation of a system that can build Lyndermayers systems.
-It can be run from the lsystems.impl.demo package. 
-
-You might have to run the following command in order to get the source code to compile
-
-mvn install:install-file -Dfile=./lib/lsystems.jar -DgroupId=lsystems -DartifactId=lsystems -Dversion=1 -Dpackaging=jar
-
-lsystems.jar is a library used to draw the fractals
-
-
 The 2nd part shows the implementation of a database where the user can type in a query and the system then matches that query to display a result from a text file representing a database.
-
-It can be run from the java.hw05.db.demo package.
-
-You can try queries such as:
-
-query jmbag="0000000003"
-query   lastName  =    "Blažić"
-query firstName>"A" and lastName LIKE "B*ć"query firstName>"A" and firstName<"C" and lastName LIKE "B*ć" and jmbag>"0000000002"
 
 ### Project - 4
 
@@ -87,13 +70,59 @@ It also consist of multiple other assignments such as
 ObjectMultiStack, working with Streams etc.
 
 ### Project - 6
-To be added...
 
+This project implements pathfinding algorithms such as Breadth first search. 
+Other shell commands were added to the shell implemented in project #4.
 
+### Project - 7
 
+The main focus of this project are generating fractals and raytracers. 
+It also showcases the usage of ForkJoinPool and Workers (RayCasterParallel.java). 
 
+### Project - 8
 
+The usage of swing is shown in  this project. 
+The larger part of the project is the implementation of a calculator with multiple 
+functions. 
+The smaller part is the implementation of bar chart drawing using Graphics. 
 
+### Project - 9
+
+This project is an implementation of Notepad. 
+It supports copying, pasteing and cutting text. It can also give stats about the document 
+and has many other features such as multi language support.
+
+### Project - 10
+
+This project is a implementation of a custom server. 
+
+### Project - 11
+
+This project showcases the usage od java servlets in order to run a 
+web application. The application can be run from a TomCat server.
+
+### Project - 12
+
+This project is an extension to project #11 and shows the usage of sql connections and daos to
+store data. 
+
+### Project - 13
+
+This project represents a blog web application with the usage of JPA. 
+
+### Project - 14
+
+This project is an implementation of a photo gallery using REST. 
+The thumbnails are located inside WEB-INF/thumbnails and are loaded upon starting the application. 
+
+### Project - 15.1
+
+This project implements a google like search engine. It is a command line application and shows the usage
+of different componenets used in text searching. 
+
+### Project - 15.2
+
+This project is a Paint implementation. It can be used to draw lines and circles in different colors. 
 
 
 

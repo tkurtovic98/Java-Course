@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29ce4cc4-0a76-408a-82f9-91e77c9826c2" name="Default Changelist" comment="" />
+    <list default="true" id="29ce4cc4-0a76-408a-82f9-91e77c9826c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-5/hs_err_pid6012.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipse-workspaces/mojeJavaDz/hw16-0036509087" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipse-workspaces/mojeJavaDz/hw11-0036509087" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,9 +38,19 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597108133282">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="1111" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603706449352">
+      <screen x="67" y="27" width="3533" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1597108133282" />
+    <state x="1111" y="310" key="FileChooserDialogImpl/67.27.3533.1053@67.27.3533.1053" timestamp="1603706449352" />
+    <state x="774" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603707185501">
+      <screen x="67" y="27" width="3533" height="1053" />
+    </state>
+    <state x="774" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.3533.1053@67.27.3533.1053" timestamp="1603707185501" />
+    <state x="1190" y="257" width="1282" height="678" key="search.everywhere.popup" timestamp="1603706279674">
+      <screen x="67" y="27" width="3533" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1603705520190" />
+    <state x="1190" y="257" width="1282" height="678" key="search.everywhere.popup/67.27.3533.1053@67.27.3533.1053" timestamp="1603706279674" />
   </component>
 </project>
